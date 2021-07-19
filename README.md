@@ -10,7 +10,7 @@
     <br>
 
 ![Captura de tela 2021-07-19 182008](https://user-images.githubusercontent.com/83052668/126229458-12e6d113-059f-41a7-98a2-abe07da9e1b0.png)
-  <br>
+<br>
 ![Captura de tela 2021-07-19 182028](https://user-images.githubusercontent.com/83052668/126229460-ea81d5d0-4d3d-4d76-acf0-a8bdec174764.png)
     
  
@@ -21,15 +21,16 @@
 
 
  
+<br>
 
-
+### 🛠 Tecnologies
 
 These are the technologies used:
 
 - TypeScript
 - CSS
 - JavaScript
-    <br>
+<br>
     
 
 Where I learnned: [**RocktSeat**](https://app.rocketseat.com.br/)
